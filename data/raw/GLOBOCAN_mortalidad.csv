@@ -1,0 +1,610 @@
+Cancer id,Cancer label,Population id,Country label,Sex,Type,Year,ASR (World),Crude rate,Cumulative risk,Total
+0,All sites excl. non-melanoma skin cancer,124,Canada,0,1,2007,108.2227466,206.5140996,11.45545764,68340
+0,All sites excl. non-melanoma skin cancer,124,Canada,0,1,2008,106.3537287,206.9503545,11.19589983,69223
+0,All sites excl. non-melanoma skin cancer,124,Canada,0,1,2009,103.6837931,205.9872194,10.86146032,69678
+0,All sites excl. non-melanoma skin cancer,124,Canada,0,1,2010,102.9256316,209.1066826,10.7475879,71508
+0,All sites excl. non-melanoma skin cancer,124,Canada,0,1,2011,100.9065367,208.6790789,10.54887831,72110
+0,All sites excl. non-melanoma skin cancer,124,Canada,0,1,2012,100.4529844,211.7487755,10.49147645,73948
+0,All sites excl. non-melanoma skin cancer,124,Canada,0,1,2013,98.42521456,211.6286082,10.30681617,74691
+0,All sites excl. non-melanoma skin cancer,124,Canada,0,1,2014,97.81183248,214.9363912,10.19319824,76591
+0,All sites excl. non-melanoma skin cancer,124,Canada,0,1,2015,95.21380518,212.9678596,9.909126368,76588
+0,All sites excl. non-melanoma skin cancer,124,Canada,0,1,2016,94.34104866,216.1479345,9.745271668,78577
+0,All sites excl. non-melanoma skin cancer,124,Canada,0,1,2017,92.41500389,215.4855741,9.53362286,79317
+0,All sites excl. non-melanoma skin cancer,124,Canada,0,1,2018,89.07559842,212.3072513,9.156808876,79180
+0,All sites excl. non-melanoma skin cancer,124,Canada,0,1,2019,87.09493523,211.0106085,8.936262882,79726
+0,All sites excl. non-melanoma skin cancer,124,Canada,0,1,2020,85.53878669,211.1500758,8.763312534,80600
+0,All sites excl. non-melanoma skin cancer,124,Canada,0,1,2021,84.47775471,213.7485779,8.666722455,82195
+0,All sites excl. non-melanoma skin cancer,124,Canada,0,1,2022,81.94682332,210.4697326,8.386603656,81707
+0,All sites excl. non-melanoma skin cancer,152,Chile,0,1,2007,93.13912504,122.7118209,9.718593768,20458
+0,All sites excl. non-melanoma skin cancer,152,Chile,0,1,2008,91.6208816,123.4812923,9.725457213,20793
+0,All sites excl. non-melanoma skin cancer,152,Chile,0,1,2009,95.39873595,131.824546,10.10568047,22423
+0,All sites excl. non-melanoma skin cancer,152,Chile,0,1,2010,94.11242093,133.2598898,9.987097325,22896
+0,All sites excl. non-melanoma skin cancer,152,Chile,0,1,2011,93.10192598,135.2308063,9.93549566,23465
+0,All sites excl. non-melanoma skin cancer,152,Chile,0,1,2012,92.58712655,137.7580688,9.972642908,24134
+0,All sites excl. non-melanoma skin cancer,152,Chile,0,1,2013,91.19340995,137.8469556,9.870884485,24381
+0,All sites excl. non-melanoma skin cancer,152,Chile,0,1,2014,89.36354,138.7356105,9.63286369,24784
+0,All sites excl. non-melanoma skin cancer,152,Chile,0,1,2015,88.9918484,141.4147252,9.516594316,25522
+0,All sites excl. non-melanoma skin cancer,152,Chile,0,1,2016,87.13322468,141.1161517,9.253700693,25778
+0,All sites excl. non-melanoma skin cancer,152,Chile,0,1,2017,84.34668622,139.9762135,8.902815044,25978
+0,All sites excl. non-melanoma skin cancer,152,Chile,0,1,2018,83.61207537,140.1721922,8.846933268,26483
+0,All sites excl. non-melanoma skin cancer,152,Chile,0,1,2019,82.56962335,141.0321963,8.614214466,27075
+0,All sites excl. non-melanoma skin cancer,152,Chile,0,1,2020,80.39790295,140.300075,8.340974804,27177
+0,All sites excl. non-melanoma skin cancer,152,Chile,0,1,2021,80.66053742,145.2380495,8.251714849,28258
+0,All sites excl. non-melanoma skin cancer,170,Colombia,0,1,2007,87.0848369,73.0906141,8.794128522,31601
+0,All sites excl. non-melanoma skin cancer,170,Colombia,0,1,2008,83.97352606,72.90417882,8.385406756,31902
+0,All sites excl. non-melanoma skin cancer,170,Colombia,0,1,2009,81.89275072,73.27506482,8.24500119,32440
+0,All sites excl. non-melanoma skin cancer,170,Colombia,0,1,2010,80.57868195,74.24517756,8.1174092,33245
+0,All sites excl. non-melanoma skin cancer,170,Colombia,0,1,2011,75.85749598,72.11948383,7.562404271,32641
+0,All sites excl. non-melanoma skin cancer,170,Colombia,0,1,2012,76.75436759,75.28686465,7.57660795,34418
+0,All sites excl. non-melanoma skin cancer,170,Colombia,0,1,2013,76.86249402,77.72647546,7.550271407,35872
+0,All sites excl. non-melanoma skin cancer,170,Colombia,0,1,2014,77.71820487,81.17610257,7.566697079,37800
+0,All sites excl. non-melanoma skin cancer,170,Colombia,0,1,2015,77.04471786,82.90195726,7.457815532,38939
+0,All sites excl. non-melanoma skin cancer,170,Colombia,0,1,2016,76.96523208,85.10775186,7.419265659,40373
+0,All sites excl. non-melanoma skin cancer,170,Colombia,0,1,2017,77.16461274,87.41753094,7.414857468,42075
+0,All sites excl. non-melanoma skin cancer,170,Colombia,0,1,2018,76.02940834,88.01523802,7.293288723,43149
+0,All sites excl. non-melanoma skin cancer,170,Colombia,0,1,2019,75.701303,89.65699577,7.232741607,44746
+0,All sites excl. non-melanoma skin cancer,170,Colombia,0,1,2020,73.55910522,89.03219875,7.016108582,45077
+0,All sites excl. non-melanoma skin cancer,170,Colombia,0,1,2021,71.60390101,88.10433527,6.901774303,45099
+0,All sites excl. non-melanoma skin cancer,188,Costa Rica,0,1,2007,74.18843528,76.04593119,7.023247383,3331
+0,All sites excl. non-melanoma skin cancer,188,Costa Rica,0,1,2008,71.86090841,75.83238543,6.768734072,3367
+0,All sites excl. non-melanoma skin cancer,188,Costa Rica,0,1,2009,71.25293759,77.40359497,6.837282952,3483
+0,All sites excl. non-melanoma skin cancer,188,Costa Rica,0,1,2010,82.33893019,91.76986112,7.895068352,4181
+0,All sites excl. non-melanoma skin cancer,188,Costa Rica,0,1,2011,77.57468668,89.24401383,7.573005752,4114
+0,All sites excl. non-melanoma skin cancer,188,Costa Rica,0,1,2012,76.31685441,90.15994761,7.330800572,4205
+0,All sites excl. non-melanoma skin cancer,188,Costa Rica,0,1,2013,76.38227279,92.80881194,7.499485952,4377
+0,All sites excl. non-melanoma skin cancer,188,Costa Rica,0,1,2014,74.90506957,94.24979741,7.175344962,4493
+0,All sites excl. non-melanoma skin cancer,188,Costa Rica,0,1,2015,74.18058206,94.789612,7.426863563,4567
+0,All sites excl. non-melanoma skin cancer,188,Costa Rica,0,1,2016,74.15820537,97.5550121,7.310387981,4748
+0,All sites excl. non-melanoma skin cancer,188,Costa Rica,0,1,2017,73.15928479,98.75483826,7.306748698,4852
+0,All sites excl. non-melanoma skin cancer,188,Costa Rica,0,1,2018,76.15696539,105.3487643,7.632098172,5223
+0,All sites excl. non-melanoma skin cancer,188,Costa Rica,0,1,2019,72.50591182,102.9891969,7.237352251,5149
+0,All sites excl. non-melanoma skin cancer,188,Costa Rica,0,1,2020,73.67130859,107.2041507,7.558734566,5397
+0,All sites excl. non-melanoma skin cancer,188,Costa Rica,0,1,2021,71.04959497,106.1662702,7.323617078,5372
+0,All sites excl. non-melanoma skin cancer,188,Costa Rica,0,1,2022,67.4827453,103.1137905,6.968251755,5240
+0,All sites excl. non-melanoma skin cancer,191,Croatia,0,1,2007,138.2860445,292.5193025,14.60662692,12625
+0,All sites excl. non-melanoma skin cancer,191,Croatia,0,1,2008,141.7505913,301.9957329,15.11377772,13030
+0,All sites excl. non-melanoma skin cancer,191,Croatia,0,1,2009,139.61745,307.247565,14.74152806,13244
+0,All sites excl. non-melanoma skin cancer,191,Croatia,0,1,2010,139.6538179,311.4984136,14.80550368,13398
+0,All sites excl. non-melanoma skin cancer,191,Croatia,0,1,2011,140.8018461,316.9716858,14.86189028,13569
+0,All sites excl. non-melanoma skin cancer,191,Croatia,0,1,2012,137.4101166,319.423446,14.5140459,13605
+0,All sites excl. non-melanoma skin cancer,191,Croatia,0,1,2013,138.0465292,322.3413176,14.53300359,13675
+0,All sites excl. non-melanoma skin cancer,191,Croatia,0,1,2014,136.0675161,327.3863906,14.35273543,13814
+0,All sites excl. non-melanoma skin cancer,191,Croatia,0,1,2015,135.5479999,332.1439238,14.30458961,13896
+0,All sites excl. non-melanoma skin cancer,191,Croatia,0,1,2016,134.8812221,337.7055676,14.31035977,13969
+0,All sites excl. non-melanoma skin cancer,191,Croatia,0,1,2017,132.099776,334.3302608,14.08794548,13638
+0,All sites excl. non-melanoma skin cancer,191,Croatia,0,1,2018,132.475464,343.0919971,14.07267745,13809
+0,All sites excl. non-melanoma skin cancer,191,Croatia,0,1,2019,126.6248776,334.7436097,13.51647407,13344
+0,All sites excl. non-melanoma skin cancer,191,Croatia,0,1,2020,122.716184,332.2746473,13.25693363,13138
+0,All sites excl. non-melanoma skin cancer,191,Croatia,0,1,2021,124.0177855,336.4920336,13.49500725,13206
+0,All sites excl. non-melanoma skin cancer,196,Cyprus,0,1,2007,78.9603125,135.2878365,8.552264204,1044
+0,All sites excl. non-melanoma skin cancer,196,Cyprus,0,1,2008,76.82668074,136.8893383,8.1858637,1083
+0,All sites excl. non-melanoma skin cancer,196,Cyprus,0,1,2009,77.51759366,136.6800886,8.20697713,1111
+0,All sites excl. non-melanoma skin cancer,196,Cyprus,0,1,2010,73.91488486,132.6615967,8.016967408,1107
+0,All sites excl. non-melanoma skin cancer,196,Cyprus,0,1,2011,74.66072009,132.7500342,7.700216815,1127
+0,All sites excl. non-melanoma skin cancer,196,Cyprus,0,1,2012,76.77974298,140.4029437,8.018648084,1213
+0,All sites excl. non-melanoma skin cancer,196,Cyprus,0,1,2013,78.32042464,144.0952282,8.367887373,1242
+0,All sites excl. non-melanoma skin cancer,196,Cyprus,0,1,2014,76.89097586,149.2089464,8.053551394,1273
+0,All sites excl. non-melanoma skin cancer,196,Cyprus,0,1,2015,79.31205676,156.6805082,8.112422556,1321
+0,All sites excl. non-melanoma skin cancer,196,Cyprus,0,1,2016,72.33629089,148.9704448,7.50628218,1266
+0,All sites excl. non-melanoma skin cancer,196,Cyprus,0,1,2017,80.59396695,163.0341712,8.487778965,1409
+0,All sites excl. non-melanoma skin cancer,196,Cyprus,0,1,2018,77.51571172,163.375001,8.206091208,1431
+0,All sites excl. non-melanoma skin cancer,196,Cyprus,0,1,2019,76.53157043,162.2790382,7.843075999,1429
+0,All sites excl. non-melanoma skin cancer,196,Cyprus,0,1,2020,80.51860122,169.4183193,8.122432008,1518
+0,All sites excl. non-melanoma skin cancer,196,Cyprus,0,1,2021,78.87614016,174.7530963,8.08063734,1581
+0,All sites excl. non-melanoma skin cancer,196,Cyprus,0,1,2022,72.44212244,162.4848892,7.141871077,1496
+0,All sites excl. non-melanoma skin cancer,203,Czechia,0,1,2007,132.2015961,257.7235447,14.2593256,26604
+0,All sites excl. non-melanoma skin cancer,203,Czechia,0,1,2008,130.1266928,257.4572672,14.0816208,26852
+0,All sites excl. non-melanoma skin cancer,203,Czechia,0,1,2009,127.4339397,256.6555834,13.68841041,26927
+0,All sites excl. non-melanoma skin cancer,203,Czechia,0,1,2010,129.3067354,263.3959248,13.99470581,27702
+0,All sites excl. non-melanoma skin cancer,203,Czechia,0,1,2011,123.2738205,257.6245118,13.34662343,27042
+0,All sites excl. non-melanoma skin cancer,203,Czechia,0,1,2012,121.2488292,258.8948479,13.18471551,27208
+0,All sites excl. non-melanoma skin cancer,203,Czechia,0,1,2013,118.168252,256.4810267,12.91942143,26958
+0,All sites excl. non-melanoma skin cancer,203,Czechia,0,1,2014,115.3343504,255.6822312,12.59362729,26910
+0,All sites excl. non-melanoma skin cancer,203,Czechia,0,1,2015,111.544124,253.0697788,12.1933088,26681
+0,All sites excl. non-melanoma skin cancer,203,Czechia,0,1,2016,111.2059426,256.5856251,12.15319677,27109
+0,All sites excl. non-melanoma skin cancer,203,Czechia,0,1,2017,109.2927482,256.697042,12.06952967,27183
+0,All sites excl. non-melanoma skin cancer,203,Czechia,0,1,2018,108.4033231,258.98632,11.83186309,27521
+0,All sites excl. non-melanoma skin cancer,203,Czechia,0,1,2019,107.8455014,262.6689376,11.65051845,28025
+0,All sites excl. non-melanoma skin cancer,203,Czechia,0,1,2020,105.3325898,260.1924925,11.51592823,27841
+0,All sites excl. non-melanoma skin cancer,203,Czechia,0,1,2021,101.5434984,255.8364323,11.02673183,26865
+0,All sites excl. non-melanoma skin cancer,203,Czechia,0,1,2022,99.09197778,253.5985557,10.66238659,27286
+0,All sites excl. non-melanoma skin cancer,203,Czechia,0,1,2023,96.25106048,249.0889445,10.35766756,27096
+0,All sites excl. non-melanoma skin cancer,208,Denmark,0,1,2007,129.0016144,274.040223,13.53593782,14967
+0,All sites excl. non-melanoma skin cancer,208,Denmark,0,1,2008,126.2187704,272.4543931,13.3318754,14968
+0,All sites excl. non-melanoma skin cancer,208,Denmark,0,1,2009,121.1077224,265.8435649,12.63051047,14683
+0,All sites excl. non-melanoma skin cancer,208,Denmark,0,1,2010,124.0396603,275.4754646,13.03540238,15283
+0,All sites excl. non-melanoma skin cancer,208,Denmark,0,1,2011,119.9260822,272.3462797,12.44351305,15172
+0,All sites excl. non-melanoma skin cancer,208,Denmark,0,1,2012,119.6307961,276.2559133,12.51950158,15448
+0,All sites excl. non-melanoma skin cancer,208,Denmark,0,1,2013,114.674389,270.3847012,11.88336848,15183
+0,All sites excl. non-melanoma skin cancer,208,Denmark,0,1,2014,113.4188401,270.1551474,11.89398312,15247
+0,All sites excl. non-melanoma skin cancer,208,Denmark,0,1,2015,110.6877902,269.648245,11.55077299,15326
+0,All sites excl. non-melanoma skin cancer,208,Denmark,0,1,2016,111.9070289,276.6837267,11.56748529,15849
+0,All sites excl. non-melanoma skin cancer,208,Denmark,0,1,2017,105.8117432,269.532475,10.83721627,15539
+0,All sites excl. non-melanoma skin cancer,208,Denmark,0,1,2018,102.0135103,263.2285462,10.58625351,15251
+0,All sites excl. non-melanoma skin cancer,208,Denmark,0,1,2019,104.3804483,275.8908431,10.71520043,16042
+0,All sites excl. non-melanoma skin cancer,208,Denmark,0,1,2020,99.49800988,269.3118273,10.18067464,15705
+0,All sites excl. non-melanoma skin cancer,208,Denmark,0,1,2021,96.80192995,269.9949366,9.892534832,15813
+0,All sites excl. non-melanoma skin cancer,208,Denmark,0,1,2022,94.03278624,266.3435037,9.603199014,15722
+0,All sites excl. non-melanoma skin cancer,218,Ecuador,0,1,2007,69.16539769,57.89749059,6.602927905,8296
+0,All sites excl. non-melanoma skin cancer,218,Ecuador,0,1,2008,69.34147288,59.25818387,6.394486756,8637
+0,All sites excl. non-melanoma skin cancer,218,Ecuador,0,1,2009,67.2984987,58.61342095,6.369427688,8690
+0,All sites excl. non-melanoma skin cancer,218,Ecuador,0,1,2010,68.02283389,60.82234866,6.262149204,9170
+0,All sites excl. non-melanoma skin cancer,218,Ecuador,0,1,2011,66.78974651,60.96084947,6.113096335,9343
+0,All sites excl. non-melanoma skin cancer,218,Ecuador,0,1,2012,67.50277455,62.67581014,6.20209022,9760
+0,All sites excl. non-melanoma skin cancer,218,Ecuador,0,1,2013,63.14775275,59.99824889,5.696602803,9484
+0,All sites excl. non-melanoma skin cancer,218,Ecuador,0,1,2014,62.2201502,59.89976627,5.725942683,9605
+0,All sites excl. non-melanoma skin cancer,218,Ecuador,0,1,2015,62.91644555,61.68610111,5.804957642,10034
+0,All sites excl. non-melanoma skin cancer,218,Ecuador,0,1,2016,63.83412794,63.61655768,5.858415004,10500
+0,All sites excl. non-melanoma skin cancer,218,Ecuador,0,1,2017,63.08379559,64.11281086,5.876761528,10745
+0,All sites excl. non-melanoma skin cancer,218,Ecuador,0,1,2018,63.7682314,66.06628306,5.888688706,11264
+0,All sites excl. non-melanoma skin cancer,218,Ecuador,0,1,2019,64.57639707,68.67349995,5.995268675,11908
+0,All sites excl. non-melanoma skin cancer,218,Ecuador,0,1,2020,61.12498172,66.19717868,5.723945966,11615
+0,All sites excl. non-melanoma skin cancer,218,Ecuador,0,1,2021,60.48734455,66.64798902,5.573894351,11785
+0,All sites excl. non-melanoma skin cancer,218,Ecuador,0,1,2022,60.0336691,67.19069725,5.651824688,11976
+0,All sites excl. non-melanoma skin cancer,233,Estonia,0,1,2007,126.8583843,259.5650272,13.89038696,3480
+0,All sites excl. non-melanoma skin cancer,233,Estonia,0,1,2008,124.403371,262.8874692,13.5724415,3515
+0,All sites excl. non-melanoma skin cancer,233,Estonia,0,1,2009,121.9154597,260.5414572,13.27557514,3477
+0,All sites excl. non-melanoma skin cancer,233,Estonia,0,1,2010,121.0364209,264.4488315,13.09558156,3521
+0,All sites excl. non-melanoma skin cancer,233,Estonia,0,1,2011,121.6841476,271.2908919,13.10703027,3601
+0,All sites excl. non-melanoma skin cancer,233,Estonia,0,1,2012,121.8545471,274.0780393,13.29283022,3625
+0,All sites excl. non-melanoma skin cancer,233,Estonia,0,1,2013,117.8056362,277.5586825,12.77616068,3658
+0,All sites excl. non-melanoma skin cancer,233,Estonia,0,1,2014,121.3123496,287.4201568,13.22735078,3778
+0,All sites excl. non-melanoma skin cancer,233,Estonia,0,1,2015,120.1485041,288.2298171,12.89637798,3789
+0,All sites excl. non-melanoma skin cancer,233,Estonia,0,1,2016,114.6885373,281.719255,12.35756332,3707
+0,All sites excl. non-melanoma skin cancer,233,Estonia,0,1,2017,114.8224166,287.7584256,12.59595062,3791
+0,All sites excl. non-melanoma skin cancer,233,Estonia,0,1,2018,116.5666684,292.5192015,12.87985448,3867
+0,All sites excl. non-melanoma skin cancer,233,Estonia,0,1,2019,109.7162122,284.4391653,11.87467215,3774
+0,All sites excl. non-melanoma skin cancer,233,Estonia,0,1,2020,107.0332384,272.7745504,11.46647336,3627
+0,All sites excl. non-melanoma skin cancer,233,Estonia,0,1,2021,104.5573038,274.9766379,11.58774355,3662
+0,All sites excl. non-melanoma skin cancer,233,Estonia,0,1,2022,95.6031599,255.834512,10.44392976,3454
+0,All sites excl. non-melanoma skin cancer,246,Finland,0,1,2007,90.20249598,204.416578,9.413902073,10811
+0,All sites excl. non-melanoma skin cancer,246,Finland,0,1,2008,89.48693189,205.537834,9.351455131,10921
+0,All sites excl. non-melanoma skin cancer,246,Finland,0,1,2009,88.09972584,205.1375608,9.396530143,10952
+0,All sites excl. non-melanoma skin cancer,246,Finland,0,1,2010,90.45156845,215.0894296,9.5435923,11536
+0,All sites excl. non-melanoma skin cancer,246,Finland,0,1,2011,87.83308697,213.9102538,9.304151567,11526
+0,All sites excl. non-melanoma skin cancer,246,Finland,0,1,2012,87.57007437,215.4979944,9.408049376,11667
+0,All sites excl. non-melanoma skin cancer,246,Finland,0,1,2013,86.68407796,217.9423514,9.243180103,11854
+0,All sites excl. non-melanoma skin cancer,246,Finland,0,1,2014,83.90299133,217.4604023,8.940764373,11877
+0,All sites excl. non-melanoma skin cancer,246,Finland,0,1,2015,83.83194549,221.2157835,8.886345447,12122
+0,All sites excl. non-melanoma skin cancer,246,Finland,0,1,2016,84.44117806,226.4592886,9.052373447,12445
+0,All sites excl. non-melanoma skin cancer,246,Finland,0,1,2017,83.19588808,227.2530878,8.866403892,12518
+0,All sites excl. non-melanoma skin cancer,246,Finland,0,1,2018,81.22156114,226.8418732,8.632196475,12512
+0,All sites excl. non-melanoma skin cancer,246,Finland,0,1,2019,80.89811076,232.498376,8.557035289,12838
+0,All sites excl. non-melanoma skin cancer,246,Finland,0,1,2020,80.11947376,234.0308868,8.498036802,12941
+0,All sites excl. non-melanoma skin cancer,246,Finland,0,1,2021,79.28789357,236.5425482,8.436026502,13107
+0,All sites excl. non-melanoma skin cancer,246,Finland,0,1,2022,77.05050513,233.5841548,8.150814707,13009
+0,All sites excl. non-melanoma skin cancer,250,France (metropolitan),0,1,2007,109.6754587,234.4374212,11.55343645,146365
+0,All sites excl. non-melanoma skin cancer,250,France (metropolitan),0,1,2008,108.3552783,236.1095116,11.38952774,148230
+0,All sites excl. non-melanoma skin cancer,250,France (metropolitan),0,1,2009,107.5776957,237.573131,11.31013617,149924
+0,All sites excl. non-melanoma skin cancer,250,France (metropolitan),0,1,2010,106.7858029,239.9768675,11.25648913,152187
+0,All sites excl. non-melanoma skin cancer,250,France (metropolitan),0,1,2011,104.4226618,238.4669592,11.00617724,151984
+0,All sites excl. non-melanoma skin cancer,250,France (metropolitan),0,1,2012,102.5273644,239.2517504,10.82956505,153261
+0,All sites excl. non-melanoma skin cancer,250,France (metropolitan),0,1,2013,99.77038121,236.1070821,10.59495834,152024
+0,All sites excl. non-melanoma skin cancer,250,France (metropolitan),0,1,2014,100.1145426,240.2272567,10.59696591,155409
+0,All sites excl. non-melanoma skin cancer,250,France (metropolitan),0,1,2015,99.6073147,243.6027813,10.55154332,158138
+0,All sites excl. non-melanoma skin cancer,250,France (metropolitan),0,1,2016,98.489437,245.6932337,10.42696747,159914
+0,All sites excl. non-melanoma skin cancer,250,France (metropolitan),0,1,2017,96.65712172,244.6435598,10.22121727,159715
+0,All sites excl. non-melanoma skin cancer,250,France (metropolitan),0,1,2018,93.89821424,242.1613368,9.916735842,158663
+0,All sites excl. non-melanoma skin cancer,250,France (metropolitan),0,1,2019,92.29079924,242.3890329,9.715365796,159321
+0,All sites excl. non-melanoma skin cancer,250,France (metropolitan),0,1,2020,90.31971348,241.1764369,9.504784589,158948
+0,All sites excl. non-melanoma skin cancer,250,France (metropolitan),0,1,2021,88.50141197,239.3576102,9.32868229,158176
+0,All sites excl. non-melanoma skin cancer,250,France (metropolitan),0,1,2022,87.82749559,241.3507161,9.293737849,159961
+0,All sites excl. non-melanoma skin cancer,276,Germany,0,1,2007,105.3330228,252.9520022,11.1025819,208085
+0,All sites excl. non-melanoma skin cancer,276,Germany,0,1,2008,105.7754046,258.557695,11.19031263,212327
+0,All sites excl. non-melanoma skin cancer,276,Germany,0,1,2009,103.7761768,259.0627125,11.00322415,212107
+0,All sites excl. non-melanoma skin cancer,276,Germany,0,1,2010,104.3139901,266.9823287,11.04335154,218278
+0,All sites excl. non-melanoma skin cancer,276,Germany,0,1,2011,103.8434289,270.1346711,10.99154364,220914
+0,All sites excl. non-melanoma skin cancer,276,Germany,0,1,2012,101.7913067,269.6901272,10.8076832,220923
+0,All sites excl. non-melanoma skin cancer,276,Germany,0,1,2013,103.0863964,276.6337156,10.94692377,223093
+0,All sites excl. non-melanoma skin cancer,276,Germany,0,1,2014,100.5486939,275.3333489,10.67781791,222972
+0,All sites excl. non-melanoma skin cancer,276,Germany,0,1,2015,99.97847989,276.0830125,10.66997273,225523
+0,All sites excl. non-melanoma skin cancer,276,Germany,0,1,2016,99.98573364,279.0900329,10.64160998,229827
+0,All sites excl. non-melanoma skin cancer,276,Germany,0,1,2017,97.1045405,274.2186599,10.38439393,226661
+0,All sites excl. non-melanoma skin cancer,276,Germany,0,1,2018,96.81605898,276.2955265,10.31418205,229065
+0,All sites excl. non-melanoma skin cancer,276,Germany,0,1,2019,95.1915725,277.0896129,10.12524538,230242
+0,All sites excl. non-melanoma skin cancer,276,Germany,0,1,2020,93.52811937,276.8405048,9.913247512,230223
+0,All sites excl. non-melanoma skin cancer,32,Argentina,0,1,2007,105.5703396,141.4382268,11.11825929,56599
+0,All sites excl. non-melanoma skin cancer,32,Argentina,0,1,2008,102.6975973,138.4024222,10.86334336,55948
+0,All sites excl. non-melanoma skin cancer,32,Argentina,0,1,2009,101.5127941,138.0399787,10.70754473,56396
+0,All sites excl. non-melanoma skin cancer,32,Argentina,0,1,2010,101.2390806,139.1640062,10.7162462,57459
+0,All sites excl. non-melanoma skin cancer,32,Argentina,0,1,2011,99.36099459,137.2156571,10.55103895,57261
+0,All sites excl. non-melanoma skin cancer,32,Argentina,0,1,2012,99.77808458,139.2424168,10.58556156,58707
+0,All sites excl. non-melanoma skin cancer,32,Argentina,0,1,2013,99.5053513,139.571566,10.59934581,59433
+0,All sites excl. non-melanoma skin cancer,32,Argentina,0,1,2014,98.48113778,139.4173027,10.50251387,59983
+0,All sites excl. non-melanoma skin cancer,32,Argentina,0,1,2015,99.05454094,141.6380684,10.54188637,61580
+0,All sites excl. non-melanoma skin cancer,32,Argentina,0,1,2016,97.43691404,140.2746247,10.40842272,61581
+0,All sites excl. non-melanoma skin cancer,32,Argentina,0,1,2017,96.82319308,139.9357591,10.40959094,61976
+0,All sites excl. non-melanoma skin cancer,32,Argentina,0,1,2018,92.98312005,135.2438927,10.0458763,60393
+0,All sites excl. non-melanoma skin cancer,32,Argentina,0,1,2019,92.39146055,136.3248291,9.982699207,61310
+0,All sites excl. non-melanoma skin cancer,32,Argentina,0,1,2020,86.80719514,128.7065093,9.420565551,58165
+0,All sites excl. non-melanoma skin cancer,32,Argentina,0,1,2021,86.66838806,130.0221442,9.380277918,58916
+0,All sites excl. non-melanoma skin cancer,32,Argentina,0,1,2022,85.38559047,129.1669397,9.237213091,58652
+0,All sites excl. non-melanoma skin cancer,36,Australia,0,1,2007,97.47083465,182.1762365,10.05432156,38389
+0,All sites excl. non-melanoma skin cancer,36,Australia,0,1,2008,98.29413489,187.2452734,10.07473083,40255
+0,All sites excl. non-melanoma skin cancer,36,Australia,0,1,2009,95.42391311,182.1496031,9.899422755,39985
+0,All sites excl. non-melanoma skin cancer,36,Australia,0,1,2010,96.50783521,187.9222864,9.917430825,41902
+0,All sites excl. non-melanoma skin cancer,36,Australia,0,1,2011,95.2620157,188.6255807,9.715105514,42139
+0,All sites excl. non-melanoma skin cancer,36,Australia,0,1,2012,91.74173141,184.5412322,9.338449989,41943
+0,All sites excl. non-melanoma skin cancer,36,Australia,0,1,2013,91.25935036,185.6051599,9.277700474,42907
+0,All sites excl. non-melanoma skin cancer,36,Australia,0,1,2014,88.91351046,182.7465445,9.042714219,42953
+0,All sites excl. non-melanoma skin cancer,36,Australia,0,1,2015,90.1658395,187.6092097,9.064313122,44681
+0,All sites excl. non-melanoma skin cancer,36,Australia,0,1,2016,87.27388114,183.8996777,8.76136444,44487
+0,All sites excl. non-melanoma skin cancer,36,Australia,0,1,2017,84.5380015,181.465534,8.523247683,44630
+0,All sites excl. non-melanoma skin cancer,36,Australia,0,1,2018,84.94215406,184.4590958,8.516295908,46047
+0,All sites excl. non-melanoma skin cancer,36,Australia,0,1,2019,85.76910067,189.3559482,8.525693643,47973
+0,All sites excl. non-melanoma skin cancer,36,Australia,0,1,2020,80.60371395,182.8630609,8.042573273,46903
+0,All sites excl. non-melanoma skin cancer,36,Australia,0,1,2021,80.78527816,189.2007806,8.002481324,48597
+0,All sites excl. non-melanoma skin cancer,36,Australia,0,1,2022,80.52048288,191.3707618,7.907280225,49767
+0,All sites excl. non-melanoma skin cancer,36,Australia,0,1,2023,79.10800895,188.5388331,7.780128678,50224
+0,All sites excl. non-melanoma skin cancer,372,Ireland,0,1,2007,114.3001229,176.0777765,12.05460039,7736
+0,All sites excl. non-melanoma skin cancer,372,Ireland,0,1,2008,116.602708,179.6255216,12.05009272,8058
+0,All sites excl. non-melanoma skin cancer,372,Ireland,0,1,2009,114.7142416,181.2847284,11.75700952,8219
+0,All sites excl. non-melanoma skin cancer,372,Ireland,0,1,2010,106.4425753,172.9734947,10.97392608,7886
+0,All sites excl. non-melanoma skin cancer,372,Ireland,0,1,2011,112.8583338,187.7018802,11.53011738,8596
+0,All sites excl. non-melanoma skin cancer,372,Ireland,0,1,2012,108.6038806,184.9077374,10.98280895,8506
+0,All sites excl. non-melanoma skin cancer,372,Ireland,0,1,2013,107.9808322,187.3640516,11.13595864,8665
+0,All sites excl. non-melanoma skin cancer,372,Ireland,0,1,2014,107.8371043,191.9180394,11.15188052,8940
+0,All sites excl. non-melanoma skin cancer,372,Ireland,0,1,2015,102.5616189,186.9223668,10.52145354,8790
+0,All sites excl. non-melanoma skin cancer,372,Ireland,0,1,2016,101.8406884,190.6804308,10.37797282,9064
+0,All sites excl. non-melanoma skin cancer,372,Ireland,0,1,2017,98.70891791,187.8276655,9.934332406,9035
+0,All sites excl. non-melanoma skin cancer,372,Ireland,0,1,2018,96.81766341,187.7659475,9.845055991,9149
+0,All sites excl. non-melanoma skin cancer,372,Ireland,0,1,2019,96.10790442,191.4263146,9.760160441,9444
+0,All sites excl. non-melanoma skin cancer,372,Ireland,0,1,2020,93.93895972,191.0646566,9.599798324,9520
+0,All sites excl. non-melanoma skin cancer,372,Ireland,0,1,2021,91.11116657,190.0594928,9.213180751,9557
+0,All sites excl. non-melanoma skin cancer,372,Ireland,0,1,2022,93.00581621,195.6941226,9.329508232,10000
+0,All sites excl. non-melanoma skin cancer,376,Israel,0,1,2007,93.1295021,130.6523397,9.429476459,9381
+0,All sites excl. non-melanoma skin cancer,376,Israel,0,1,2008,91.80332888,129.6381379,9.344908338,9475
+0,All sites excl. non-melanoma skin cancer,376,Israel,0,1,2009,87.12811637,126.1093683,8.926831654,9440
+0,All sites excl. non-melanoma skin cancer,376,Israel,0,1,2010,92.15521181,134.6483795,9.467608504,10265
+0,All sites excl. non-melanoma skin cancer,376,Israel,0,1,2011,87.8076514,131.3703413,8.912633471,10202
+0,All sites excl. non-melanoma skin cancer,376,Israel,0,1,2012,88.86514578,133.2781272,9.149595564,10543
+0,All sites excl. non-melanoma skin cancer,376,Israel,0,1,2013,86.55592717,130.8400912,8.862533349,10545
+0,All sites excl. non-melanoma skin cancer,376,Israel,0,1,2014,85.81084409,131.4926631,8.70129728,10803
+0,All sites excl. non-melanoma skin cancer,376,Israel,0,1,2015,84.10890575,130.9284601,8.45462903,10972
+0,All sites excl. non-melanoma skin cancer,376,Israel,0,1,2016,81.33703568,127.9426727,8.191219883,10934
+0,All sites excl. non-melanoma skin cancer,376,Israel,0,1,2017,79.49491408,127.5755606,7.898638876,11116
+0,All sites excl. non-melanoma skin cancer,376,Israel,0,1,2018,79.26137307,127.9331523,7.954165015,11364
+0,All sites excl. non-melanoma skin cancer,376,Israel,0,1,2019,78.4678505,128.5393922,7.737652203,11638
+0,All sites excl. non-melanoma skin cancer,376,Israel,0,1,2020,75.66218271,126.3250348,7.53161532,11641
+0,All sites excl. non-melanoma skin cancer,376,Israel,0,1,2021,72.29379103,122.3940446,7.237381733,11470
+0,All sites excl. non-melanoma skin cancer,376,Israel,0,1,2022,71.21915641,121.234531,7.135545133,11587
+0,All sites excl. non-melanoma skin cancer,380,Italy,0,1,2007,105.3007835,269.9910705,10.9787095,160308
+0,All sites excl. non-melanoma skin cancer,380,Italy,0,1,2008,103.5643864,269.5472075,10.77037202,161276
+0,All sites excl. non-melanoma skin cancer,380,Italy,0,1,2009,102.5674569,270.8783218,10.66853143,163049
+0,All sites excl. non-melanoma skin cancer,380,Italy,0,1,2010,102.2553996,275.5037101,10.59928047,166634
+0,All sites excl. non-melanoma skin cancer,380,Italy,0,1,2011,102.3312948,281.5215806,10.58984411,167166
+0,All sites excl. non-melanoma skin cancer,380,Italy,0,1,2012,101.3994656,282.8330161,10.53713503,168398
+0,All sites excl. non-melanoma skin cancer,380,Italy,0,1,2013,98.03142156,277.7835101,10.18873426,167320
+0,All sites excl. non-melanoma skin cancer,380,Italy,0,1,2014,96.17459355,276.7681222,10.03558568,168245
+0,All sites excl. non-melanoma skin cancer,380,Italy,0,1,2015,95.16055768,279.0290462,9.901127857,169456
+0,All sites excl. non-melanoma skin cancer,380,Italy,0,1,2016,93.42760174,279.2379788,9.741475592,169295
+0,All sites excl. non-melanoma skin cancer,380,Italy,0,1,2017,91.90584771,280.1093241,9.542335571,169569
+0,All sites excl. non-melanoma skin cancer,380,Italy,0,1,2018,91.43333258,283.4282606,9.427437214,169709
+0,All sites excl. non-melanoma skin cancer,380,Italy,0,1,2019,87.99739691,283.3415715,8.973409139,168415
+0,All sites excl. non-melanoma skin cancer,380,Italy,0,1,2020,87.12768545,281.186411,8.973076747,167134
+0,All sites excl. non-melanoma skin cancer,380,Italy,0,1,2021,84.867983,277.4432551,8.725183875,164061
+0,All sites excl. non-melanoma skin cancer,392,Japan,0,1,2007,93.92075378,265.8917864,9.705369869,335247
+0,All sites excl. non-melanoma skin cancer,392,Japan,0,1,2008,92.89211989,271.2693233,9.58105641,341661
+0,All sites excl. non-melanoma skin cancer,392,Japan,0,1,2009,90.40776078,272.4318267,9.282448412,342771
+0,All sites excl. non-melanoma skin cancer,392,Japan,0,1,2010,90.1820761,279.0783174,9.23944217,352704
+0,All sites excl. non-melanoma skin cancer,392,Japan,0,1,2011,89.37290664,282.5198323,9.183923762,356492
+0,All sites excl. non-melanoma skin cancer,392,Japan,0,1,2012,87.75452124,285.8405183,8.995535164,360039
+0,All sites excl. non-melanoma skin cancer,392,Japan,0,1,2013,86.58317911,289.5212487,8.865308538,363934
+0,All sites excl. non-melanoma skin cancer,392,Japan,0,1,2014,85.3774353,292.6812934,8.781296467,367116
+0,All sites excl. non-melanoma skin cancer,392,Japan,0,1,2015,83.63148871,294.7766249,8.638913425,369412
+0,All sites excl. non-melanoma skin cancer,392,Japan,0,1,2016,82.47292862,297.5732029,8.545384334,372029
+0,All sites excl. non-melanoma skin cancer,392,Japan,0,1,2017,80.25343345,298.7343016,8.301721696,372369
+0,All sites excl. non-melanoma skin cancer,392,Japan,0,1,2018,78.44118365,299.9545624,8.090746942,372600
+0,All sites excl. non-melanoma skin cancer,392,Japan,0,1,2019,77.16898162,303.3635754,7.920845451,375357
+0,All sites excl. non-melanoma skin cancer,392,Japan,0,1,2020,75.91511941,305.787013,7.770959439,377338
+0,All sites excl. non-melanoma skin cancer,392,Japan,0,1,2021,75.23716734,309.8358781,7.711581007,380418
+0,All sites excl. non-melanoma skin cancer,40,Austria,0,1,2007,100.3417294,218.2006115,10.52019742,18104
+0,All sites excl. non-melanoma skin cancer,40,Austria,0,1,2008,100.5585398,224.5756692,10.44778035,18692
+0,All sites excl. non-melanoma skin cancer,40,Austria,0,1,2009,98.76346911,222.2151522,10.35796298,18544
+0,All sites excl. non-melanoma skin cancer,40,Austria,0,1,2010,102.109557,235.1199625,10.63536569,19668
+0,All sites excl. non-melanoma skin cancer,40,Austria,0,1,2011,101.5508868,237.0113198,10.59322099,19893
+0,All sites excl. non-melanoma skin cancer,40,Austria,0,1,2012,101.426677,239.3021207,10.80545308,20177
+0,All sites excl. non-melanoma skin cancer,40,Austria,0,1,2013,98.03856129,235.5859255,10.36221473,19981
+0,All sites excl. non-melanoma skin cancer,40,Austria,0,1,2014,99.04648974,238.5287239,10.60403783,20389
+0,All sites excl. non-melanoma skin cancer,40,Austria,0,1,2015,95.5584718,233.7333412,10.26515203,20204
+0,All sites excl. non-melanoma skin cancer,40,Austria,0,1,2016,93.56149878,229.4826495,10.06457118,20052
+0,All sites excl. non-melanoma skin cancer,40,Austria,0,1,2017,91.49891069,228.9522607,9.838569202,20145
+0,All sites excl. non-melanoma skin cancer,40,Austria,0,1,2018,91.02447898,231.0541454,9.726225199,20429
+0,All sites excl. non-melanoma skin cancer,40,Austria,0,1,2019,88.34021888,229.7183296,9.365009793,20401
+0,All sites excl. non-melanoma skin cancer,40,Austria,0,1,2020,87.81052341,233.2816412,9.2669906,20812
+0,All sites excl. non-melanoma skin cancer,40,Austria,0,1,2021,84.79558221,229.116433,9.111231924,20545
+0,All sites excl. non-melanoma skin cancer,40,Austria,0,1,2022,83.83601275,231.6684864,8.874479784,21000
+0,All sites excl. non-melanoma skin cancer,40,Austria,0,1,2023,81.57028124,228.9487164,8.552758498,20904
+0,All sites excl. non-melanoma skin cancer,410,"Korea, Republic of",0,1,2007,103.4509948,136.9010822,11.01635784,67260
+0,All sites excl. non-melanoma skin cancer,410,"Korea, Republic of",0,1,2008,99.7845354,137.8473149,10.59570481,68103
+0,All sites excl. non-melanoma skin cancer,410,"Korea, Republic of",0,1,2009,96.80482429,139.0485516,10.28771066,69047
+0,All sites excl. non-melanoma skin cancer,410,"Korea, Republic of",0,1,2010,96.10248735,144.080336,10.09006077,71867
+0,All sites excl. non-melanoma skin cancer,410,"Korea, Republic of",0,1,2011,91.60132572,142.4663698,9.544356839,71392
+0,All sites excl. non-melanoma skin cancer,410,"Korea, Republic of",0,1,2012,89.95564291,146.1466121,9.339786124,73578
+0,All sites excl. non-melanoma skin cancer,410,"Korea, Republic of",0,1,2013,87.62089363,148.5770527,9.060676221,75119
+0,All sites excl. non-melanoma skin cancer,410,"Korea, Republic of",0,1,2014,84.92112269,150.5264901,8.708717354,76412
+0,All sites excl. non-melanoma skin cancer,410,"Korea, Republic of",0,1,2015,81.77478472,150.416875,8.41207714,76640
+0,All sites excl. non-melanoma skin cancer,410,"Korea, Republic of",0,1,2016,79.60992644,152.5151008,8.133367313,77955
+0,All sites excl. non-melanoma skin cancer,410,"Korea, Republic of",0,1,2017,76.40330974,153.4489942,7.730087617,78613
+0,All sites excl. non-melanoma skin cancer,410,"Korea, Republic of",0,1,2018,73.0844031,153.8433349,7.291231177,78923
+0,All sites excl. non-melanoma skin cancer,410,"Korea, Republic of",0,1,2019,72.05914671,157.6997309,7.223125889,80959
+0,All sites excl. non-melanoma skin cancer,410,"Korea, Republic of",0,1,2020,69.74727845,159.5485536,6.966202729,81927
+0,All sites excl. non-melanoma skin cancer,410,"Korea, Republic of",0,1,2021,67.38871536,160.545058,6.767965287,82413
+0,All sites excl. non-melanoma skin cancer,410,"Korea, Republic of",0,1,2022,65.52729061,162.1876305,6.615576021,83136
+0,All sites excl. non-melanoma skin cancer,414,Kuwait,0,1,2007,67.13604805,25.59923952,7.905605177,642
+0,All sites excl. non-melanoma skin cancer,414,Kuwait,0,1,2008,62.57224302,25.15632184,7.132072187,667
+0,All sites excl. non-melanoma skin cancer,414,Kuwait,0,1,2009,70.35532331,25.50541319,8.197132271,713
+0,All sites excl. non-melanoma skin cancer,414,Kuwait,0,1,2010,61.10125628,24.12195244,6.457370367,710
+0,All sites excl. non-melanoma skin cancer,414,Kuwait,0,1,2011,54.6181236,22.43986085,6.32126776,703
+0,All sites excl. non-melanoma skin cancer,414,Kuwait,0,1,2012,57.54745857,23.55391404,6.295415668,786
+0,All sites excl. non-melanoma skin cancer,414,Kuwait,0,1,2013,47.82949372,20.66851971,5.34053934,725
+0,All sites excl. non-melanoma skin cancer,414,Kuwait,0,1,2014,43.32899764,20.45957665,4.582154919,750
+0,All sites excl. non-melanoma skin cancer,414,Kuwait,0,1,2015,43.21853364,21.30682559,4.718855754,817
+0,All sites excl. non-melanoma skin cancer,414,Kuwait,0,1,2016,37.09124772,19.83032831,3.726401995,794
+0,All sites excl. non-melanoma skin cancer,414,Kuwait,0,1,2017,35.81480767,20.55510332,3.566166611,854
+0,All sites excl. non-melanoma skin cancer,414,Kuwait,0,1,2018,33.94791852,20.74763177,3.343561431,897
+0,All sites excl. non-melanoma skin cancer,414,Kuwait,0,1,2019,34.3621049,22.21876547,3.510731145,987
+0,All sites excl. non-melanoma skin cancer,414,Kuwait,0,1,2020,35.72382485,21.93129915,3.670935898,985
+0,All sites excl. non-melanoma skin cancer,414,Kuwait,0,1,2021,38.10756025,22.06852564,3.908712078,1002
+0,All sites excl. non-melanoma skin cancer,414,Kuwait,0,1,2022,41.22661774,22.37711164,4.217004193,1027
+0,All sites excl. non-melanoma skin cancer,414,Kuwait,0,1,2023,41.45548502,23.78698271,4.323292038,1151
+0,All sites excl. non-melanoma skin cancer,428,Latvia,0,1,2007,132.4465757,264.6427232,14.44893818,5823
+0,All sites excl. non-melanoma skin cancer,428,Latvia,0,1,2008,132.4248729,264.2236656,14.57768127,5753
+0,All sites excl. non-melanoma skin cancer,428,Latvia,0,1,2009,133.3692415,272.2176023,14.64613115,5830
+0,All sites excl. non-melanoma skin cancer,428,Latvia,0,1,2010,135.7029274,285.8089538,14.71902444,5995
+0,All sites excl. non-melanoma skin cancer,428,Latvia,0,1,2011,130.7449786,282.9525918,14.16324384,5828
+0,All sites excl. non-melanoma skin cancer,428,Latvia,0,1,2012,130.1230859,292.1370739,14.21391367,5943
+0,All sites excl. non-melanoma skin cancer,428,Latvia,0,1,2013,128.9260804,292.997232,13.99741232,5897
+0,All sites excl. non-melanoma skin cancer,428,Latvia,0,1,2014,128.8083165,297.0736018,14.03877671,5923
+0,All sites excl. non-melanoma skin cancer,428,Latvia,0,1,2015,126.1719879,294.9137989,13.84964481,5832
+0,All sites excl. non-melanoma skin cancer,428,Latvia,0,1,2016,123.9399578,298.0295856,13.51005891,5840
+0,All sites excl. non-melanoma skin cancer,428,Latvia,0,1,2017,126.2931643,305.1601254,13.71594204,5927
+0,All sites excl. non-melanoma skin cancer,428,Latvia,0,1,2018,125.0363104,305.3676736,13.70073212,5885
+0,All sites excl. non-melanoma skin cancer,428,Latvia,0,1,2019,124.4276683,306.5594153,13.72501125,5867
+0,All sites excl. non-melanoma skin cancer,428,Latvia,0,1,2020,123.3012484,311.4000955,13.29409157,5918
+0,All sites excl. non-melanoma skin cancer,428,Latvia,0,1,2021,118.6877888,301.8853907,13.0986557,5689
+0,All sites excl. non-melanoma skin cancer,428,Latvia,0,1,2022,116.3863402,299.1939376,12.68257426,5623
+0,All sites excl. non-melanoma skin cancer,428,Latvia,0,1,2023,116.1296906,298.0113931,12.79481199,5595
+0,All sites excl. non-melanoma skin cancer,440,Lithuania,0,1,2007,133.2808269,255.0990408,14.48177381,8243
+0,All sites excl. non-melanoma skin cancer,440,Lithuania,0,1,2008,132.8556954,257.5173588,14.26981588,8236
+0,All sites excl. non-melanoma skin cancer,440,Lithuania,0,1,2009,129.6611221,255.7766314,14.18789647,8090
+0,All sites excl. non-melanoma skin cancer,440,Lithuania,0,1,2010,127.6583861,260.195875,13.95626339,8059
+0,All sites excl. non-melanoma skin cancer,440,Lithuania,0,1,2011,127.5507124,266.1391658,13.87362247,8059
+0,All sites excl. non-melanoma skin cancer,440,Lithuania,0,1,2012,123.3165339,266.2852901,13.48828759,7956
+0,All sites excl. non-melanoma skin cancer,440,Lithuania,0,1,2013,120.9094635,264.7337161,13.22063928,7830
+0,All sites excl. non-melanoma skin cancer,440,Lithuania,0,1,2014,121.7494475,272.1351045,13.3535724,7980
+0,All sites excl. non-melanoma skin cancer,440,Lithuania,0,1,2015,126.2915859,285.8264111,13.82430801,8303
+0,All sites excl. non-melanoma skin cancer,440,Lithuania,0,1,2016,124.2276678,283.9729436,13.69699321,8145
+0,All sites excl. non-melanoma skin cancer,440,Lithuania,0,1,2017,118.2178763,281.0419873,12.94283506,7949
+0,All sites excl. non-melanoma skin cancer,440,Lithuania,0,1,2018,118.786962,284.7359473,13.05523421,7977
+0,All sites excl. non-melanoma skin cancer,440,Lithuania,0,1,2019,117.9363309,285.8843357,12.97888426,7988
+0,All sites excl. non-melanoma skin cancer,440,Lithuania,0,1,2020,117.8079081,291.5325675,12.82149521,8148
+0,All sites excl. non-melanoma skin cancer,440,Lithuania,0,1,2021,110.351055,273.8589507,12.03000565,7691
+0,All sites excl. non-melanoma skin cancer,440,Lithuania,0,1,2022,111.2450213,276.8361851,12.1609034,7839
+0,All sites excl. non-melanoma skin cancer,440,Lithuania,0,1,2023,106.1321791,268.7365101,11.51382517,7717
+0,All sites excl. non-melanoma skin cancer,470,Malta,0,1,2007,99.56149841,192.4752485,10.89652649,803
+0,All sites excl. non-melanoma skin cancer,470,Malta,0,1,2008,101.5330345,199.0600737,10.59213762,834
+0,All sites excl. non-melanoma skin cancer,470,Malta,0,1,2009,98.0585122,198.4341525,10.30374573,835
+0,All sites excl. non-melanoma skin cancer,470,Malta,0,1,2010,99.29357991,200.8751912,10.85774614,849
+0,All sites excl. non-melanoma skin cancer,470,Malta,0,1,2011,96.16377715,205.5914758,10.15492363,873
+0,All sites excl. non-melanoma skin cancer,470,Malta,0,1,2012,98.56836355,215.4189829,9.828204294,919
+0,All sites excl. non-melanoma skin cancer,470,Malta,0,1,2013,86.6381721,196.9879975,8.966405429,844
+0,All sites excl. non-melanoma skin cancer,470,Malta,0,1,2014,90.8968848,209.2134472,9.481467591,909
+0,All sites excl. non-melanoma skin cancer,470,Malta,0,1,2015,88.68200933,204.9528013,9.272346073,912
+0,All sites excl. non-melanoma skin cancer,470,Malta,0,1,2016,88.40819711,203.3962339,9.503055147,926
+0,All sites excl. non-melanoma skin cancer,470,Malta,0,1,2017,85.43684158,201.7514333,8.927698722,944
+0,All sites excl. non-melanoma skin cancer,470,Malta,0,1,2018,90.99605604,214.6288108,9.229423519,1040
+0,All sites excl. non-melanoma skin cancer,470,Malta,0,1,2019,79.39858705,186.899014,8.477565003,942
+0,All sites excl. non-melanoma skin cancer,470,Malta,0,1,2020,82.15834151,193.5521843,8.49894812,1003
+0,All sites excl. non-melanoma skin cancer,470,Malta,0,1,2021,77.14642937,185.9351058,8.256199408,975
+0,All sites excl. non-melanoma skin cancer,528,The Netherlands,0,1,2007,120.0670053,242.4227996,12.49573958,39713
+0,All sites excl. non-melanoma skin cancer,528,The Netherlands,0,1,2008,120.8165739,247.2939737,12.60165934,40669
+0,All sites excl. non-melanoma skin cancer,528,The Netherlands,0,1,2009,119.299448,249.4071981,12.43624513,41228
+0,All sites excl. non-melanoma skin cancer,528,The Netherlands,0,1,2010,119.3558994,254.3964472,12.43450746,42269
+0,All sites excl. non-melanoma skin cancer,528,The Netherlands,0,1,2011,117.766028,256.118012,12.24260663,42754
+0,All sites excl. non-melanoma skin cancer,528,The Netherlands,0,1,2012,116.3270467,258.2218271,12.11613263,43265
+0,All sites excl. non-melanoma skin cancer,528,The Netherlands,0,1,2013,110.6374394,251.3918192,11.58049292,42245
+0,All sites excl. non-melanoma skin cancer,528,The Netherlands,0,1,2014,109.3564889,254.26587,11.40239477,42882
+0,All sites excl. non-melanoma skin cancer,528,The Netherlands,0,1,2015,109.7680717,259.8829948,11.51142774,44024
+0,All sites excl. non-melanoma skin cancer,528,The Netherlands,0,1,2016,109.4757573,265.1152852,11.39041229,45150
+0,All sites excl. non-melanoma skin cancer,528,The Netherlands,0,1,2017,105.7126765,261.3535193,10.9549919,44779
+0,All sites excl. non-melanoma skin cancer,528,The Netherlands,0,1,2018,100.3747592,257.917067,10.51884615,44662
+0,All sites excl. non-melanoma skin cancer,528,The Netherlands,0,1,2019,97.06075168,257.7778707,10.14296516,45011
+0,All sites excl. non-melanoma skin cancer,528,The Netherlands,0,1,2020,96.07530196,256.6970987,9.849873857,44953
+0,All sites excl. non-melanoma skin cancer,528,The Netherlands,0,1,2021,96.03359086,256.2285185,9.85942034,44939
+0,All sites excl. non-melanoma skin cancer,528,The Netherlands,0,1,2022,94.61661841,256.8385206,9.693499015,45448
+0,All sites excl. non-melanoma skin cancer,528,The Netherlands,0,1,2023,91.68299661,253.5027603,9.388942081,45315
+0,All sites excl. non-melanoma skin cancer,554,New Zealand,0,1,2007,113.419478,196.4119945,11.67722122,8295
+0,All sites excl. non-melanoma skin cancer,554,New Zealand,0,1,2008,110.6367244,195.6439309,11.49519994,8338
+0,All sites excl. non-melanoma skin cancer,554,New Zealand,0,1,2009,106.3434075,191.0413391,11.07686691,8223
+0,All sites excl. non-melanoma skin cancer,554,New Zealand,0,1,2010,104.7560457,191.9604542,10.82689781,8346
+0,All sites excl. non-melanoma skin cancer,554,New Zealand,0,1,2011,105.5347752,196.9561917,10.87486469,8632
+0,All sites excl. non-melanoma skin cancer,554,New Zealand,0,1,2012,103.3854169,196.2745908,10.58593054,8659
+0,All sites excl. non-melanoma skin cancer,554,New Zealand,0,1,2013,101.7998213,197.6491805,10.36593752,8803
+0,All sites excl. non-melanoma skin cancer,554,New Zealand,0,1,2014,99.75186542,198.6078656,10.07993454,8983
+0,All sites excl. non-melanoma skin cancer,554,New Zealand,0,1,2015,101.2393289,202.057681,10.21994835,9323
+0,All sites excl. non-melanoma skin cancer,554,New Zealand,0,1,2016,97.09313525,195.7465582,9.70711526,9229
+0,All sites excl. non-melanoma skin cancer,554,New Zealand,0,1,2017,94.68245801,193.9015551,9.523208811,9332
+0,All sites excl. non-melanoma skin cancer,554,New Zealand,0,1,2018,92.965079,193.1910953,9.180090212,9468
+0,All sites excl. non-melanoma skin cancer,578,Norway,0,1,2007,105.1696843,223.9674711,10.92389706,10547
+0,All sites excl. non-melanoma skin cancer,578,Norway,0,1,2008,103.2192495,219.9351834,10.69272206,10487
+0,All sites excl. non-melanoma skin cancer,578,Norway,0,1,2009,100.3004696,215.2327773,10.3421112,10393
+0,All sites excl. non-melanoma skin cancer,578,Norway,0,1,2010,102.7553666,222.4260702,10.60707433,10875
+0,All sites excl. non-melanoma skin cancer,578,Norway,0,1,2011,99.71942643,218.0856433,10.17158384,10802
+0,All sites excl. non-melanoma skin cancer,578,Norway,0,1,2012,97.52596444,214.5430797,10.10424405,10767
+0,All sites excl. non-melanoma skin cancer,578,Norway,0,1,2013,94.20163573,206.6861798,9.756758357,10500
+0,All sites excl. non-melanoma skin cancer,578,Norway,0,1,2014,94.16075506,210.0077685,9.570493192,10789
+0,All sites excl. non-melanoma skin cancer,578,Norway,0,1,2015,90.79706395,206.4198838,9.301063,10713
+0,All sites excl. non-melanoma skin cancer,578,Norway,0,1,2016,89.85512327,205.6472397,9.277644526,10768
+0,All sites excl. non-melanoma skin cancer,608,Philippines,0,1,2007,83.34925581,48.35784958,8.979108762,44042
+0,All sites excl. non-melanoma skin cancer,608,Philippines,0,1,2008,84.29744707,49.55064556,9.094758249,45933
+0,All sites excl. non-melanoma skin cancer,608,Philippines,0,1,2009,83.77994061,50.19057788,9.069029462,47372
+0,All sites excl. non-melanoma skin cancer,608,Philippines,0,1,2010,84.37149016,51.50454611,9.069725012,49618
+0,All sites excl. non-melanoma skin cancer,608,Philippines,0,1,2011,82.87018397,51.42871532,8.960012522,50528
+0,All sites excl. non-melanoma skin cancer,608,Philippines,0,1,2012,81.56879777,51.67146659,8.820893845,51717
+0,All sites excl. non-melanoma skin cancer,608,Philippines,0,1,2013,80.39545696,51.91526678,8.69502385,52916
+0,All sites excl. non-melanoma skin cancer,608,Philippines,0,1,2014,79.33565772,52.16102633,8.580671366,54126
+0,All sites excl. non-melanoma skin cancer,608,Philippines,0,1,2015,80.53037297,54.27669982,8.654427115,57127
+0,All sites excl. non-melanoma skin cancer,608,Philippines,0,1,2016,81.70349302,56.35039569,8.728481484,60146
+0,All sites excl. non-melanoma skin cancer,608,Philippines,0,1,2017,78.75819695,56.02587125,8.402761743,60575
+0,All sites excl. non-melanoma skin cancer,608,Philippines,0,1,2018,79.06000167,57.73337024,8.301391649,63198
+0,All sites excl. non-melanoma skin cancer,608,Philippines,0,1,2019,77.65348132,58.30258945,8.11000517,64602
+0,All sites excl. non-melanoma skin cancer,616,Poland,0,1,2007,140.2301915,242.4233393,15.33999555,92402
+0,All sites excl. non-melanoma skin cancer,616,Poland,0,1,2008,137.3467864,242.9169405,15.01348606,92590
+0,All sites excl. non-melanoma skin cancer,616,Poland,0,1,2009,135.4298194,243.4252957,14.84145514,92875
+0,All sites excl. non-melanoma skin cancer,616,Poland,0,1,2010,131.6536366,242.671316,14.55464598,92318
+0,All sites excl. non-melanoma skin cancer,616,Poland,0,1,2011,128.7448579,241.8278695,14.20953496,92018
+0,All sites excl. non-melanoma skin cancer,616,Poland,0,1,2012,129.1840526,248.1191506,14.25972836,94432
+0,All sites excl. non-melanoma skin cancer,616,Poland,0,1,2013,126.0371318,246.9707322,13.98283968,93927
+0,All sites excl. non-melanoma skin cancer,616,Poland,0,1,2014,125.8497604,250.9409397,14.02573037,95373
+0,All sites excl. non-melanoma skin cancer,616,Poland,0,1,2015,126.8982554,261.121257,14.0313659,99178
+0,All sites excl. non-melanoma skin cancer,616,Poland,0,1,2016,123.6375301,260.9494341,13.70604339,99048
+0,All sites excl. non-melanoma skin cancer,616,Poland,0,1,2017,121.8587161,262.2732363,13.4788242,99565
+0,All sites excl. non-melanoma skin cancer,616,Poland,0,1,2018,119.6761707,266.9880526,13.09834908,101317
+0,All sites excl. non-melanoma skin cancer,616,Poland,0,1,2019,118.1212726,264.1499689,13.14919922,100240
+0,All sites excl. non-melanoma skin cancer,616,Poland,0,1,2020,115.3004283,264.8882604,12.78504666,98448
+0,All sites excl. non-melanoma skin cancer,616,Poland,0,1,2021,107.5943588,247.6706546,11.99645221,93464
+0,All sites excl. non-melanoma skin cancer,616,Poland,0,1,2022,108.9329385,257.2657232,12.04543838,94698
+0,All sites excl. non-melanoma skin cancer,705,Slovenia,0,1,2007,133.1802973,272.357317,14.0424976,5500
+0,All sites excl. non-melanoma skin cancer,705,Slovenia,0,1,2008,130.1898797,273.4629173,13.64218518,5577
+0,All sites excl. non-melanoma skin cancer,705,Slovenia,0,1,2009,128.4110582,276.5462081,13.42507148,5648
+0,All sites excl. non-melanoma skin cancer,705,Slovenia,0,1,2010,127.1281082,283.2250175,13.10699316,5804
+0,All sites excl. non-melanoma skin cancer,705,Slovenia,0,1,2011,121.7111385,277.1674259,12.5328549,5689
+0,All sites excl. non-melanoma skin cancer,705,Slovenia,0,1,2012,119.6735598,275.2540751,12.45325499,5660
+0,All sites excl. non-melanoma skin cancer,705,Slovenia,0,1,2013,120.2054412,284.4912909,12.34867978,5858
+0,All sites excl. non-melanoma skin cancer,705,Slovenia,0,1,2014,113.7637226,278.372913,11.86831759,5739
+0,All sites excl. non-melanoma skin cancer,705,Slovenia,0,1,2015,118.4824461,291.7486841,12.40748534,6019
+0,All sites excl. non-melanoma skin cancer,705,Slovenia,0,1,2016,117.9153647,298.4147684,12.49749606,6160
+0,All sites excl. non-melanoma skin cancer,705,Slovenia,0,1,2017,117.5819068,302.7837618,12.26145102,6256
+0,All sites excl. non-melanoma skin cancer,705,Slovenia,0,1,2018,116.2177248,306.1858544,11.97707178,6327
+0,All sites excl. non-melanoma skin cancer,705,Slovenia,0,1,2019,106.4706367,293.5042717,11.14875668,6032
+0,All sites excl. non-melanoma skin cancer,705,Slovenia,0,1,2020,108.7833796,300.9819411,11.1524431,6321
+0,All sites excl. non-melanoma skin cancer,724,Spain,0,1,2007,101.8750239,215.5723417,10.63693276,98121
+0,All sites excl. non-melanoma skin cancer,724,Spain,0,1,2008,99.988999,213.865869,10.41522118,98881
+0,All sites excl. non-melanoma skin cancer,724,Spain,0,1,2009,98.36507645,213.0751934,10.27733027,99368
+0,All sites excl. non-melanoma skin cancer,724,Spain,0,1,2010,98.96258335,219.3743929,10.34050607,102756
+0,All sites excl. non-melanoma skin cancer,724,Spain,0,1,2011,98.43791692,223.0560986,10.28092649,104832
+0,All sites excl. non-melanoma skin cancer,724,Spain,0,1,2012,97.83707067,225.941706,10.20987295,106234
+0,All sites excl. non-melanoma skin cancer,724,Spain,0,1,2013,96.18119012,227.3818085,10.06913741,106552
+0,All sites excl. non-melanoma skin cancer,724,Spain,0,1,2014,93.67910553,226.1270891,9.827418274,105647
+0,All sites excl. non-melanoma skin cancer,724,Spain,0,1,2015,92.52290633,228.3131628,9.708299161,106585
+0,All sites excl. non-melanoma skin cancer,724,Spain,0,1,2016,92.2200268,231.2509994,9.7439421,108070
+0,All sites excl. non-melanoma skin cancer,724,Spain,0,1,2017,90.67680071,231.2507956,9.637780434,108384
+0,All sites excl. non-melanoma skin cancer,724,Spain,0,1,2018,88.82238928,229.0327861,9.443297718,107858
+0,All sites excl. non-melanoma skin cancer,724,Spain,0,1,2019,86.70699828,228.0441206,9.224894953,108173
+0,All sites excl. non-melanoma skin cancer,724,Spain,0,1,2020,85.10551283,226.0825404,9.052416637,107795
+0,All sites excl. non-melanoma skin cancer,724,Spain,0,1,2021,84.03276157,227.5049555,8.931304665,108601
+0,All sites excl. non-melanoma skin cancer,724,Spain,0,1,2022,83.31933538,229.7171559,8.885571374,109870
+0,All sites excl. non-melanoma skin cancer,752,Sweden,0,1,2007,96.17459949,236.5844908,10.04701735,21643
+0,All sites excl. non-melanoma skin cancer,752,Sweden,0,1,2008,94.97293661,234.0110779,9.979899581,21575
+0,All sites excl. non-melanoma skin cancer,752,Sweden,0,1,2009,93.54136595,231.4883026,9.80419528,21525
+0,All sites excl. non-melanoma skin cancer,752,Sweden,0,1,2010,90.36393787,228.2438944,9.409618115,21405
+0,All sites excl. non-melanoma skin cancer,752,Sweden,0,1,2011,90.17325583,229.2568725,9.402299447,21663
+0,All sites excl. non-melanoma skin cancer,752,Sweden,0,1,2012,89.51529276,231.3594352,9.154248607,22024
+0,All sites excl. non-melanoma skin cancer,752,Sweden,0,1,2013,88.80151424,230.4284149,9.160097688,22122
+0,All sites excl. non-melanoma skin cancer,752,Sweden,0,1,2014,87.62746177,229.5766152,8.980047727,22260
+0,All sites excl. non-melanoma skin cancer,752,Sweden,0,1,2015,86.60667961,230.515136,8.923483079,22351
+0,All sites excl. non-melanoma skin cancer,752,Sweden,0,1,2016,84.2227973,226.1494283,8.626800179,22441
+0,All sites excl. non-melanoma skin cancer,752,Sweden,0,1,2017,84.17074747,227.3979706,8.583565394,22871
+0,All sites excl. non-melanoma skin cancer,752,Sweden,0,1,2018,80.67870548,220.3098736,8.188864193,22417
+0,All sites excl. non-melanoma skin cancer,752,Sweden,0,1,2019,78.9355305,218.2045585,7.981205976,22429
+0,All sites excl. non-melanoma skin cancer,752,Sweden,0,1,2020,77.19874001,217.3963016,7.782950539,22508
+0,All sites excl. non-melanoma skin cancer,752,Sweden,0,1,2021,74.33694424,211.7070006,7.451026553,22051
+0,All sites excl. non-melanoma skin cancer,752,Sweden,0,1,2022,72.94964782,212.7884576,7.31854355,22315
+0,All sites excl. non-melanoma skin cancer,752,Sweden,0,1,2023,71.8771908,214.1006829,7.168668712,22559
+0,All sites excl. non-melanoma skin cancer,756,Switzerland,0,1,2007,94.46110042,207.4381665,10.04032865,15652
+0,All sites excl. non-melanoma skin cancer,756,Switzerland,0,1,2008,91.24218046,204.1292231,9.68529082,15599
+0,All sites excl. non-melanoma skin cancer,756,Switzerland,0,1,2009,89.7635337,202.4259319,9.56988629,15663
+0,All sites excl. non-melanoma skin cancer,756,Switzerland,0,1,2010,90.12477893,206.9449287,9.446896517,16195
+0,All sites excl. non-melanoma skin cancer,756,Switzerland,0,1,2011,89.19707841,206.9526304,9.40165846,16379
+0,All sites excl. non-melanoma skin cancer,756,Switzerland,0,1,2012,87.02029872,204.6899668,9.17459054,16373
+0,All sites excl. non-melanoma skin cancer,756,Switzerland,0,1,2013,85.41649348,204.5307978,9.056986182,16549
+0,All sites excl. non-melanoma skin cancer,756,Switzerland,0,1,2014,84.03652312,203.4862123,8.969859932,16666
+0,All sites excl. non-melanoma skin cancer,756,Switzerland,0,1,2015,84.13143203,206.8703107,8.880259362,17137
+0,All sites excl. non-melanoma skin cancer,756,Switzerland,0,1,2016,81.57124405,204.0501732,8.595133582,17089
+0,All sites excl. non-melanoma skin cancer,756,Switzerland,0,1,2017,79.66152741,203.0725743,8.297342322,17167
+0,All sites excl. non-melanoma skin cancer,756,Switzerland,0,1,2018,79.12003509,202.234656,8.291953082,17223
+0,All sites excl. non-melanoma skin cancer,756,Switzerland,0,1,2019,75.40710131,198.9385282,7.980367069,17064
+0,All sites excl. non-melanoma skin cancer,756,Switzerland,0,1,2020,73.06678688,194.3040523,7.636479473,16789
+0,All sites excl. non-melanoma skin cancer,756,Switzerland,0,1,2021,71.36612758,192.0748233,7.461993194,16724
+0,All sites excl. non-melanoma skin cancer,756,Switzerland,0,1,2022,70.50795262,193.9450298,7.29908106,17052
+0,All sites excl. non-melanoma skin cancer,8262,"UK, Scotland",0,1,2007,132.4390442,291.934236,13.82853018,15093
+0,All sites excl. non-melanoma skin cancer,8262,"UK, Scotland",0,1,2008,129.6546898,290.0113398,13.58940166,15089
+0,All sites excl. non-melanoma skin cancer,8262,"UK, Scotland",0,1,2009,127.2225827,287.0085437,13.31067829,15016
+0,All sites excl. non-melanoma skin cancer,8262,"UK, Scotland",0,1,2010,126.1574106,290.1828133,13.07874509,15270
+0,All sites excl. non-melanoma skin cancer,8262,"UK, Scotland",0,1,2011,125.3185621,290.0998132,13.06285718,15375
+0,All sites excl. non-melanoma skin cancer,8262,"UK, Scotland",0,1,2012,125.4429537,297.180819,12.96987207,15791
+0,All sites excl. non-melanoma skin cancer,8262,"UK, Scotland",0,1,2013,123.4845048,295.9250709,12.77480436,15766
+0,All sites excl. non-melanoma skin cancer,8262,"UK, Scotland",0,1,2014,120.7427279,294.4498467,12.47524643,15746
+0,All sites excl. non-melanoma skin cancer,8262,"UK, Scotland",0,1,2015,121.5055131,298.0085613,12.57883074,16012
+0,All sites excl. non-melanoma skin cancer,8262,"UK, Scotland",0,1,2016,117.8963203,292.5971839,12.03083983,15814
+0,All sites excl. non-melanoma skin cancer,8262,"UK, Scotland",0,1,2017,116.0286596,296.8773042,11.69399187,16105
+0,All sites excl. non-melanoma skin cancer,8262,"UK, Scotland",0,1,2018,116.1801586,297.0522793,11.80126012,16154
+0,All sites excl. non-melanoma skin cancer,8262,"UK, Scotland",0,1,2019,115.1124277,299.5625355,11.61469583,16366
+0,All sites excl. non-melanoma skin cancer,8262,"UK, Scotland",0,1,2020,113.0219128,296.2312156,11.43948883,16184
+0,All sites excl. non-melanoma skin cancer,8263,"UK, Northern Ireland",0,1,2007,115.4156196,217.2642666,12.07167974,3822
+0,All sites excl. non-melanoma skin cancer,8263,"UK, Northern Ireland",0,1,2008,116.6343393,221.4080765,12.27667785,3930
+0,All sites excl. non-melanoma skin cancer,8263,"UK, Northern Ireland",0,1,2009,111.9934517,215.104735,11.91117167,3848
+0,All sites excl. non-melanoma skin cancer,8263,"UK, Northern Ireland",0,1,2010,114.3558706,222.5196066,12.04324851,4004
+0,All sites excl. non-melanoma skin cancer,8263,"UK, Northern Ireland",0,1,2011,110.9247529,222.7834371,11.22342426,4042
+0,All sites excl. non-melanoma skin cancer,8263,"UK, Northern Ireland",0,1,2012,111.0928401,225.5386772,11.53082204,4113
+0,All sites excl. non-melanoma skin cancer,8263,"UK, Northern Ireland",0,1,2013,110.8439634,230.0892211,11.33330172,4210
+0,All sites excl. non-melanoma skin cancer,8263,"UK, Northern Ireland",0,1,2014,111.298463,233.5780859,11.39869824,4299
+0,All sites excl. non-melanoma skin cancer,8263,"UK, Northern Ireland",0,1,2015,109.4662873,233.8491516,11.25395889,4330
+0,All sites excl. non-melanoma skin cancer,8263,"UK, Northern Ireland",0,1,2016,111.2029024,242.2485564,11.42663268,4511
+0,All sites excl. non-melanoma skin cancer,8263,"UK, Northern Ireland",0,1,2017,106.5069101,236.4720761,10.99651666,4424
+0,All sites excl. non-melanoma skin cancer,8263,"UK, Northern Ireland",0,1,2018,99.4271474,232.6023076,10.15553356,4409
+0,All sites excl. non-melanoma skin cancer,8263,"UK, Northern Ireland",0,1,2019,101.2948246,234.6241446,10.23338004,4443
+0,All sites excl. non-melanoma skin cancer,8263,"UK, Northern Ireland",0,1,2020,101.7873169,241.2015764,10.4881333,4572
+0,All sites excl. non-melanoma skin cancer,8263,"UK, Northern Ireland",0,1,2021,99.3397026,239.2673599,10.00615905,4557
+0,All sites excl. non-melanoma skin cancer,8263,"UK, Northern Ireland",0,1,2022,97.61935463,241.030953,9.887109366,4605
+0,All sites excl. non-melanoma skin cancer,840,USA,0,1,2007,105.6835935,184.0919763,11.2823725,555671
+0,All sites excl. non-melanoma skin cancer,840,USA,0,1,2008,103.7866473,183.1007611,11.08373282,558403
+0,All sites excl. non-melanoma skin cancer,840,USA,0,1,2009,101.9212322,181.9468589,10.87882305,560439
+0,All sites excl. non-melanoma skin cancer,840,USA,0,1,2010,101.3688679,183.8619142,10.81034939,571926
+0,All sites excl. non-melanoma skin cancer,840,USA,0,1,2011,99.38259594,182.6197792,10.58610704,573618
+0,All sites excl. non-melanoma skin cancer,840,USA,0,1,2012,98.19571047,182.7171065,10.45225254,579424
+0,All sites excl. non-melanoma skin cancer,840,USA,0,1,2013,96.17498171,181.6689954,10.22074104,581542
+0,All sites excl. non-melanoma skin cancer,840,USA,0,1,2014,94.93446955,181.9721505,10.04147391,587980
+0,All sites excl. non-melanoma skin cancer,840,USA,0,1,2015,93.37661267,181.5280286,9.87213185,592011
+0,All sites excl. non-melanoma skin cancer,840,USA,0,1,2016,91.57991216,180.5121925,9.615134825,594209
+0,All sites excl. non-melanoma skin cancer,840,USA,0,1,2017,89.32278478,179.1452898,9.385638761,595129
+0,All sites excl. non-melanoma skin cancer,840,USA,0,1,2018,87.08450848,177.6195968,9.127524196,595126
+0,All sites excl. non-melanoma skin cancer,840,USA,0,1,2019,84.96262301,176.304178,8.901818603,595538
+0,All sites excl. non-melanoma skin cancer,840,USA,0,1,2020,83.66182971,176.2166419,8.790435249,598143
+0,All sites excl. non-melanoma skin cancer,840,USA,0,1,2021,82.56363492,176.5905619,8.701944616,600693
+0,All sites excl. non-melanoma skin cancer,840,USA,0,1,2022,81.11911549,176.7150326,8.525914835,603542
+0,All sites excl. non-melanoma skin cancer,8401,USA: White,0,1,2007,104.4112945,199.4765672,11.15993497,481370
+0,All sites excl. non-melanoma skin cancer,8401,USA: White,0,1,2008,102.7332358,199.0056539,10.97202319,483367
+0,All sites excl. non-melanoma skin cancer,8401,USA: White,0,1,2009,101.0883766,198.2079557,10.76361304,484251
+0,All sites excl. non-melanoma skin cancer,8401,USA: White,0,1,2010,99.83449986,199.0132511,10.63300208,488932
+0,All sites excl. non-melanoma skin cancer,8401,USA: White,0,1,2011,98.08553055,198.2569434,10.44705019,489459
+0,All sites excl. non-melanoma skin cancer,8401,USA: White,0,1,2012,96.91922024,199.0586961,10.31665243,493853
+0,All sites excl. non-melanoma skin cancer,8401,USA: White,0,1,2013,95.07349723,198.6273925,10.11313357,494976
+0,All sites excl. non-melanoma skin cancer,8401,USA: White,0,1,2014,92.77402491,195.1941572,9.849888361,495811
+0,All sites excl. non-melanoma skin cancer,8401,USA: White,0,1,2015,91.11653683,194.8027173,9.69108522,498076
+0,All sites excl. non-melanoma skin cancer,8401,USA: White,0,1,2016,89.24628116,193.6643165,9.461835963,498401
+0,All sites excl. non-melanoma skin cancer,8401,USA: White,0,1,2017,87.48537345,193.5628993,9.244655263,498382
+0,All sites excl. non-melanoma skin cancer,8401,USA: White,0,1,2018,85.33986241,192.0634278,9.020966722,497315
+0,All sites excl. non-melanoma skin cancer,8401,USA: White,0,1,2019,83.26588609,190.5854801,8.791746858,496242
+0,All sites excl. non-melanoma skin cancer,8401,USA: White,0,1,2020,81.97163498,190.1568285,8.682711781,497852
+0,All sites excl. non-melanoma skin cancer,8401,USA: White,0,1,2021,80.39247818,189.2423383,8.518675951,498144
+0,All sites excl. non-melanoma skin cancer,8401,USA: White,0,1,2022,78.98393185,188.5773776,8.384646844,499038
+0,All sites excl. non-melanoma skin cancer,8401,USA: White,0,1,2023,77.83248028,189.0990066,8.281800119,503031
+0,All sites excl. non-melanoma skin cancer,8402,USA: Black,0,1,2007,131.7663234,157.9140922,14.05810508,63878
+0,All sites excl. non-melanoma skin cancer,8402,USA: Black,0,1,2008,127.7701603,155.3973634,13.66793134,63789
+0,All sites excl. non-melanoma skin cancer,8402,USA: Black,0,1,2009,125.429513,154.9536479,13.52119827,64511
+0,All sites excl. non-melanoma skin cancer,8402,USA: Black,0,1,2010,123.4278397,155.8958709,13.27825608,65790
+0,All sites excl. non-melanoma skin cancer,8402,USA: Black,0,1,2011,121.4708419,156.0702628,13.13825456,66667
+0,All sites excl. non-melanoma skin cancer,8402,USA: Black,0,1,2012,118.4556532,155.4990647,12.87093622,67244
+0,All sites excl. non-melanoma skin cancer,8402,USA: Black,0,1,2013,115.5361249,154.9062985,12.52781639,67788
+0,All sites excl. non-melanoma skin cancer,8402,USA: Black,0,1,2014,112.6176013,150.6512645,12.24025042,68639
+0,All sites excl. non-melanoma skin cancer,8402,USA: Black,0,1,2015,109.3029678,149.5808545,11.91362758,68996
+0,All sites excl. non-melanoma skin cancer,8402,USA: Black,0,1,2016,107.7982718,150.3633748,11.72561393,70217
+0,All sites excl. non-melanoma skin cancer,8402,USA: Black,0,1,2017,104.66416,148.3901017,11.44574819,70276
+0,All sites excl. non-melanoma skin cancer,8402,USA: Black,0,1,2018,101.1950674,146.4320556,11.05379407,70208
+0,All sites excl. non-melanoma skin cancer,8402,USA: Black,0,1,2019,99.47311245,146.6787571,10.871963,71196
+0,All sites excl. non-melanoma skin cancer,8402,USA: Black,0,1,2020,96.47506541,145.0712833,10.60119653,71284
+0,All sites excl. non-melanoma skin cancer,8402,USA: Black,0,1,2021,92.42388372,141.3566446,10.20025259,70311
+0,All sites excl. non-melanoma skin cancer,8402,USA: Black,0,1,2022,90.62198472,141.1760902,10.02813038,71077
+0,All sites excl. non-melanoma skin cancer,8402,USA: Black,0,1,2023,88.2148728,139.588047,9.789159196,71127
