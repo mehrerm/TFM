@@ -1,12 +1,11 @@
 TFM/
 ├── data/
-│   ├── raw/          # datos originales (DIRAC, GLOBOCAN, Banco Mundial, ONU)
-│   ├── processed/    # datos tras limpieza / EDA
-│   │   └── eda_dataset.xlsx
+│   ├── raw/          # datos originales (GLOBOCAN, Banco Mundial, ONU)
+│   ├── processed/    # datos tras limpieza 
+│   │   
 ├── notebooks/
-│   ├── 01_load_and_clean_DIRAC.ipynb
-│   ├── 02_EDA.ipynb
-│   └── 03_models.ipynb
+│   ├── 01_load_and_clean.ipynb
+│   ├── 02_EDA.ipy
 ├── src/
 └── README.md
 
